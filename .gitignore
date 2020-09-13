@@ -1,0 +1,24 @@
+
+target
+*._*
+/var/
+/bin
+
+
+### STS ###
+.classpath
+.factorypath
+.project
+.settings
+
+### IntelliJ IDEA ###
+*.iml
+.idea
+
+### NetBeans ###
+/nbactions.xml
+/nbactions-*.xml
+/nbproject/
+*.csv
+
+nb-configuration\.xml
