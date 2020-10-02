@@ -1,2 +1,2 @@
 # strong-programmer
-Code for the blog strong-programmer.com
+Code for the blog http://strong-programmer.com/
